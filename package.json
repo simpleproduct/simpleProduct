@@ -39,6 +39,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1",
-    "homepage": "http://simpleProduct.github.io/simpleProduct"
+    "homepage": "http://simpleproduct.github.io/simpleProduct"
   }
 }
